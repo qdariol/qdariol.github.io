@@ -8,15 +8,12 @@ Note: you will also be able to go through this on my [LinkedIn profile](https://
 
 - Research and development engineer, [Keysom](https://keysom.io/), Bordeaux France. January 2025 - Now.
     - Technology watch on edge hardware accelerator architectures. Research and developement of Coarsed-Grain Reprogrammable Architecture (CGRA) Hardware and Compiler.
-
 - Researcher, [German Aerospace Center (DLR), Institute, Oldenburg, Germany](https://www.dlr.de/en/se/about-us/the-institute). March 2022 - December 2024
     - Management of a work package involving participants from several DLR institutes, for the research and development of energy-efficient neuromorphic on-board computers for satellite constellations, in the scope of the [DLR ADMIRE](https://www.dlr.de/en/si/latest/news/admire-kick-off-meeting-in-hannover) project.
     - Development of a minimal latency and power consumption hardware accelerator architecture for edge transformer and Convolutional Neural Networks (CNNs) inference. Research led in the scope of ADMIRE.
     - Research in the scope of my PhD work: timing and energy optimization methodology of Artificial Neural Networks (ANNs) on multi-core platforms.
-
 - Researcher, [IETR UMR CNRS 6164, Nantes Université, France](https://www.ietr.fr/en/presentation). September 2020 - February 2022
     - Research in the scope of my PhD work: timing and energy optimization methodology of Artificial Neural Networks (ANNs) on multi-core platforms.
-
 - FPGA engineer, [Thales, Mérignac, France](https://www.thalesgroup.com/en). February 2019 - June 2020
     - Verification and documentation of a dedicated avionics Graphical Processing Unit (GPU) architecture on FPGA.
     - Porting of a FPGA design on Intel Cyclone V SoC with performance enhancement. Implementation, verification and validation through ModelSim (RTL) simulation and physical tests.
@@ -31,15 +28,13 @@ Note: you will also be able to go through this on my [LinkedIn profile](https://
 # Provided teachings
 I had the pleasure to give the following teachings (practical sessions) at the Electronics and Digital Technologies Department of the Graduate School of Engineering of Nantes Université (Polytech'Nantes):
 - **Hardware/Software (HW/SW) System Co-Design**
-    - Master 2 level, tought in 2021-2022 and 2020-2021. This course teaches a specification, design and implementation methodology of embedded systems architectures, combining the Hardware and Software aspect. Various technologies are used in this course: system specification and design in the Intel Confluent Studio software, design and test of HW/SW applications on MPSoCs (FPGA) using Xilinx Vivado and Vitis (SDK).
+    - Master 2 level, taught in 2021-2022 and 2020-2021. This course teaches a specification, design and implementation methodology of embedded systems architectures, combining the Hardware and Software aspect. Various technologies are used in this course: system specification and design in the Intel Confluent Studio software, design and test of HW/SW applications on MPSoCs (FPGA) using Xilinx Vivado and Vitis (SDK).
 - **Technical projects**,
-    - Master 2 level, tought in 2021-2022 and 2020-2021. This involves the supervision of students working on a embedded systems engineering industrial or research project. Students dedicate one day per week to their technical project during one semester. Example of projects supervised: Development of Convolutional Neural Network applications on an embedded multi-core platform on FPGA.
+    - Master 2 level, taught in 2021-2022 and 2020-2021. This involves the supervision of students working on a embedded systems engineering industrial or research project. Students dedicate one day per week to their technical project during one semester. Example of projects supervised: Development of Convolutional Neural Network applications on an embedded multi-core platform on FPGA.
 - **Digital Circuits Design**,
-    - Master 1 level, tought in 2021-2022. This course teaches a methodology of specification, design and verification of applications implemented on embedded systems. This course focuses on the example of a Local Interconnect Network (LIN) receiver circuit. Students use HDL Designer along with RTL simulation to describe and validate the design.
+    - Master 1 level, taught in 2021-2022. This course teaches a methodology of specification, design and verification of applications implemented on embedded systems. This course focuses on the example of a Local Interconnect Network (LIN) receiver circuit. Students use HDL Designer along with RTL simulation to describe and validate the design.
 - **Real-Time Embedded Software**,
-    - Master 1 level, tought in 2020-2021. In this course, students learn to develop embedded applications with real time constraints. They use the Real Time Operating System (RTOS) VxWorks in the tool Wind River Workbench.
-
- # My research
+    - Master 1 level, taught in 2020-2021. In this course, students learn to develop embedded applications with real time constraints. They use the Real Time Operating System (RTOS) VxWorks in the tool Wind River Workbench.
 
  # Other references
  - [My LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/)
