@@ -87,14 +87,11 @@ I had the pleasure to give the following teachings (practical sessions) at the E
     - Master 1 level, taught in 2020-2021. In this course, students learn to develop embedded applications with real time constraints. They use the Real Time Operating System (RTOS) VxWorks in the tool Wind River Workbench.
 
 
- # Other references
+# Other references
  
  Find out more there:
  - [My LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/)
  - [My ORCid](https://orcid.org/0000-0002-3284-6882): lists all my publications.
  - [My Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Dariol%2C%20Quentin%22&l=list&p=1&s=10&sort=bestmatch): gives some of my publications with the PDFs and some software/hardware artefacts I have made.
- - [My publications available on HAL - Archives Ouvertes](https://hal.science/search/index?q=quentin+dariol): lists all my publications during my PhD work including free access to the PDFs.
- - [My publications available on e-Lib (from DLR)](https://elib.dlr.de/cgi/search/simple?q=quentin+dariol&screen=Public%3A%3AEPrintSearch&_action_search=Suchen&q_merge=ALL&p_merge=ALL&p=&subjects_merge=ALL&date=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle): lists all my publications during my work at DLR including (most of the time) free access to the PDFs.
-
-
-# End
+ - [My publications available on HAL - Archives Ouvertes](https://hal.science/search/index?q=quentin+dariol): lists all my publications during my PhD work including access to the PDFs.
+ - [My publications available on e-Lib (from DLR)](https://elib.dlr.de/cgi/search/simple?q=quentin+dariol&screen=Public%3A%3AEPrintSearch&_action_search=Suchen&q_merge=ALL&p_merge=ALL&p=&subjects_merge=ALL&date=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle): lists all my publications during my work at DLR including access to the PDFs.
