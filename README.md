@@ -1,5 +1,7 @@
 # Preface
 
+![quentin.jpg](quentin.jpg)
+
 Hi! My name is Quentin Dariol. I am a confirmed level (>6 years of experience) Research and Development (R&D) embedded systems and FPGA engineer. I am currently working on the specification and development of embedded multi/many-core architectures at [Keysom](https://keysom.io/), in the region of Bordeaux, France.
 
 In the rapidly evolving era of Artificial Intelligence (AI), the growth of the field increasingly depends on our ability to deploy complex algorithms on edge embedded systems (edgeAI). Yet this is a demanding challenge: such workloads typically require significant computational and memory resources, which are limited in embedded environments. Further complicating matters, these systems must operate within strict timing constraints and tight power budgets—conditions. Recognizing these challenges, I have dedicated my research and engineering efforts to optimizing the alignment between algorithms and hardware, with a particular focus on enabling efficient deployment of novel complex algorithms on embedded Systems-on-Chip (SoCs).
@@ -44,7 +46,7 @@ Visit my [my LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/) for 
 
 ***PhD thesis:***
 - [**PhDThesis'2023:** Early Timing and Energy Prediction and Optimization of Artificial Neural Networks on Multi-Core Platforms, Nantes Université](https://theses.hal.science/tel-04390337v1)
-	- Author: **Quentin Dariol**,
+	- Author: **Quentin Dariol**
 	
 ***International journal article:***
 - In preparation. Stay tuned! ;)
@@ -93,3 +95,6 @@ I had the pleasure to give the following teachings (practical sessions) at the E
  - [My Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Dariol%2C%20Quentin%22&l=list&p=1&s=10&sort=bestmatch): gives some of my publications with the PDFs and some software/hardware artefacts I have made.
  - [My publications available on HAL - Archives Ouvertes](https://hal.science/search/index?q=quentin+dariol): lists all my publications during my PhD work including free access to the PDFs.
  - [My publications available on e-Lib (from DLR)](https://elib.dlr.de/cgi/search/simple?q=quentin+dariol&screen=Public%3A%3AEPrintSearch&_action_search=Suchen&q_merge=ALL&p_merge=ALL&p=&subjects_merge=ALL&date=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle): lists all my publications during my work at DLR including (most of the time) free access to the PDFs.
+
+
+# End
