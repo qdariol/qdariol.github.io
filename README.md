@@ -42,35 +42,40 @@ Visit my [my LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/) for 
 
 ***Projects:***
 - [pSSim4AI](https://github.com/qdariol/pssim4ai) is the Git repository containing the SystemC-based modeling flow proposed and developed during my PhD. It enables fast yet accurate prediction of time and energy for neural networks on multi-core platforms.
-- [ADMIRE](https://www.dlr.de/en/si/latest/news/admire-kick-off-meeting-in-hannover): I worked for one year as scientific and technical lead for the project ADMIRE at DLR, on a work package focused on the developement of energy-efficient neuromorphic on-board computers. No sources available.
+- [ADMIRE](https://www.dlr.de/en/si/latest/news/admire-kick-off-meeting-in-hannover): I worked for one year as scientific and technical lead for the project ADMIRE at DLR, on a work package focused on the developement of energy-efficient neuromorphic on-board computers.
 
 ***PhD thesis:***
 - [**PhDThesis'2023:** Early Timing and Energy Prediction and Optimization of Artificial Neural Networks on Multi-Core Platforms, Nantes Université](https://theses.hal.science/tel-04390337v1)
 	- Author: **Quentin Dariol**
 	
 ***International journal article:***
-- In preparation. Stay tuned! ;)
+- [**JSA'2026:** A Measurement-Based Calibration Approach for Highly Scalable Timing and Energy Modeling of EdgeAI Multi-Core Systems](https://doi.org/10.1016/j.sysarc.2026.103738)
+	- Journal: Elsevier Journal of Systems Architecture
+  	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
 
-***Lectures in international conferences:***
+***Lectures in international conferences and workshops:***
 - [**DASIP'2026:** MultiGRA: Expanding the CGRA Design Space with a Mixed-Granularity Approach](https://www.hipeac.net/2026/krakow/#/program/8258/?session=1098)
+ 	- Conference/workshop: Workshop on Design and Architectures for Signal and Image Processing (DASIP)
 	- Authors: Léo Pajot, **Quentin Dariol**, Jérémie Crenne, Simon Rokicki and Bertrand Le Gal.
 - [**RAPIDO'2023:** Fast Yet Accurate Timing and Power Prediction of Artificial Neural Networks Deployed on Clock-Gated Multi-Core Platforms](https://dx.doi.org/10.1145/3579170.3579263)
+ 	- Conference/workshop: Workshop on Rapid Simulation and Performance Evaluation for Design Optimization: Methods and Tools (RAPIDO)
 	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
 - [**SAMOS'2022:** A Hybrid Performance Prediction Approach for Fully-Connected Artificial Neural Networks on Multi-core Platforms](https://dx.doi.org/10.1007/978-3-031-15074-6_16)
+	- Conference/workshop: International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)
 	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
 
 ***Posters & abstracts:***
-- [**GDRSOC'24:** Low Power and High-Throughput LUT-based Accelerator Architecture for Distributed CNN Inference at the Edge](https://elib.dlr.de/204828/)
+- [**GDRSOC'2024:** Low Power and High-Throughput LUT-based Accelerator Architecture for Distributed CNN Inference at the Edge](https://elib.dlr.de/204828/)
 	- Authors: **Quentin Dariol**, Domenik Helms.
-- [**GRETSI'23:** Early Performance and Energy Prediction of Neural Networks Deployed on Multi-Core Platforms](https://hal.science/hal-04186902)
+- [**GRETSI'2023:** Early Performance and Energy Prediction of Neural Networks Deployed on Multi-Core Platforms](https://hal.science/hal-04186902)
 	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
-- [**GDRSOC'22** Hybrid Performance Prediction Models for Fully-Connected Neural Networks on MPSoC](https://hal.science/hal-03758026v1)
+- [**GDRSOC'2022** Hybrid Performance Prediction Models for Fully-Connected Neural Networks on MPSoC](https://hal.science/hal-03758026v1)
 	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
-- [**GDRSOC'21:** A Measurement-based Performance Evaluation Framework for Neural Networks on MPSoCs](https://hal.science/hal-03248152)
+- [**GDRSOC'2021:** A Measurement-based Performance Evaluation Framework for Neural Networks on MPSoCs](https://hal.science/hal-03248152)
 	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
 
 ***Technical report:***
-- [**TechReport'22** Setup of an Experimental Framework for Performance Modeling and Prediction of Embedded Multicore AI Architectures](https://hal.science/hal-03546804v1)
+- [**TechReport'2022** Setup of an Experimental Framework for Performance Modeling and Prediction of Embedded Multicore AI Architectures](https://hal.science/hal-03546804v1)
 	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
 
 
