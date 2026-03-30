@@ -2,15 +2,15 @@
 
 ![quentin.jpg](quentin.jpg)
 
-Hi! My name is Quentin Dariol. I am a confirmed level (>6 years of experience) Research and Development (R&D) embedded systems and FPGA engineer. I am currently working on the specification and development of embedded multi/many-core architectures at [Keysom](https://keysom.io/), in the region of Bordeaux, France.
+I am Quentin Dariol, a confirmed level (>6 years of experience) Research and Development (R&D) FPGA and embedded systems engineer. I am currently working on the specification and development of embedded many-core architectures in the form of Coarsed-Grained Reconfigurable Arrays (CGRAs) in [Keysom](https://keysom.io/) in the region of Bordeaux, France.
 
-In the rapidly evolving era of Artificial Intelligence (AI), the growth of the field increasingly depends on our ability to deploy complex algorithms on edge embedded systems (edgeAI). Yet this is a demanding challenge: such workloads typically require significant computational and memory resources, which are limited in embedded environments. Further complicating matters, these systems must operate within strict timing constraints and tight power budgets—conditions. Recognizing these challenges, I have dedicated my research and engineering efforts to optimizing the alignment between algorithms and hardware, with a particular focus on enabling efficient deployment of novel complex algorithms on embedded Systems-on-Chip (SoCs).
+In the rapidly evolving era of Artificial Intelligence (AI), the growth of the field increasingly depends on our ability to deploy complex algorithms on edge embedded systems (edgeAI). Yet this is a demanding challenge: such workloads typically require significant computational and memory resources, which are limited in embedded environments. Further complicating matters, these systems must operate within strict timing constraints and tight power budgets. Recognizing these challenges, I have dedicated my engineering and research efforts to optimizing the alignment between algorithms and hardware, with a particular focus on enabling efficient deployment of novel complex algorithms on embedded Systems-on-Chip (SoCs).
 
 # Profile
 
 ## My professional experience
 
-I have worked on the research and development of FPGA designs in the following companies/research centers:
+I have worked on the R&D of FPGA designs in the following companies/research centers:
 - [Keysom, Bordeaux, France](https://keysom.io/), Bordeaux France. January 2025 - Now.
 - [German Aerospace Center (DLR), Oldenburg, Germany](https://www.dlr.de/en/se/about-us/the-institute). March 2022 - December 2024.
 - [IETR laboratory, Nantes, France](https://www.ietr.fr/en). September 2020 - February 2022.
@@ -26,17 +26,17 @@ I have the following academic curriculum:
 ## My skills
 
 My skill-set includes:
-- Research, specification, development, verification and documentation methodology of embedded systems and FPGA designs,
-- FPGA development,
-- EdgeAI,
+- Research, specification, development, verification and documentation methodology of FPGA designs and embedded systems,
+    - Hardware Description Languages: SystemVerilog, Verilog, VHDL, [Amaranth HDL](https://github.com/amaranth-lang/amaranth), verification with [UVM](https://accellera.org/community/uvm).
 - Electronic System Level (ESL) modeling - [SystemC TLM](https://systemc.org/overview/systemc-tlm/),
-- Micro-architecture, ISA RISC-V,
+- EdgeAI: deployment and optimization of AI algorithms on FPGA and embedded systems.
+- Micro-architecture, RISC-V Instruction-Set Architecture (ISA),
 - Drivers and bare-metal Software development in C/C++,
 - Automatization and scripting: Python, [Jinja](https://github.com/pallets/jinja), shell, TCL,
 - Technical and scientific lead of projects,
-- Speaking French, English and (a fair bit of) German.
+- Fluent in French, good command in English and working knowledge in German.
 
-Visit my [my LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/) for more details, and maybe getting in touch. ;)
+Visit my [my LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/) for more details and getting in touch.
 
 # Scientific publications
 
@@ -50,8 +50,8 @@ Visit my [my LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/) for 
 	
 ***International journal article:***
 - [**JSA'2026:** A Measurement-Based Calibration Approach for Highly Scalable Timing and Energy Modeling of EdgeAI Multi-Core Systems](https://doi.org/10.1016/j.sysarc.2026.103738)
-	- Journal: Elsevier Journal of Systems Architecture
-  	- Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
+  - Journal: Elsevier Journal of Systems Architecture
+  - Authors: **Quentin Dariol**, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, Domenik Helms and Kim Grüttner.
 
 ***Lectures in international conferences and workshops:***
 - [**DASIP'2026:** MultiGRA: Expanding the CGRA Design Space with a Mixed-Granularity Approach](https://www.hipeac.net/2026/krakow/#/program/8258/?session=1098)
@@ -95,8 +95,8 @@ I had the pleasure to give the following teachings (practical sessions) at the E
 # Other references
  
  Find out more there:
- - [My LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/)
- - [My ORCid](https://orcid.org/0000-0002-3284-6882): lists all my publications.
- - [My Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Dariol%2C%20Quentin%22&l=list&p=1&s=10&sort=bestmatch): gives some of my publications with the PDFs and some software/hardware artefacts I have made.
- - [My publications available on HAL - Archives Ouvertes](https://hal.science/search/index?q=quentin+dariol): lists all my publications during my PhD work including access to the PDFs.
- - [My publications available on e-Lib (from DLR)](https://elib.dlr.de/cgi/search/simple?q=quentin+dariol&screen=Public%3A%3AEPrintSearch&_action_search=Suchen&q_merge=ALL&p_merge=ALL&p=&subjects_merge=ALL&date=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle): lists all my publications during my work at DLR including access to the PDFs.
+ - [LinkedIn profile](https://www.linkedin.com/in/quentin-dariol/)
+ - [ORCid](https://orcid.org/0000-0002-3284-6882).
+ - [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Dariol%2C%20Quentin%22&l=list&p=1&s=10&sort=bestmatch).
+ - [Publications available on HAL - Archives Ouvertes](https://hal.science/search/index?q=quentin+dariol).
+ - [{ublications available on e-Lib (DLR archives)](https://elib.dlr.de/cgi/search/simple?q=quentin+dariol&screen=Public%3A%3AEPrintSearch&_action_search=Suchen&q_merge=ALL&p_merge=ALL&p=&subjects_merge=ALL&date=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle).
